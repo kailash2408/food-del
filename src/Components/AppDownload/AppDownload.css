@@ -1,0 +1,13 @@
+.app-download {
+  text-align: center;
+  margin: 30px;
+  margin-top: 100px;
+}
+.app-download-platforms {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.app-download-platforms img {
+  cursor: pointer;
+}
